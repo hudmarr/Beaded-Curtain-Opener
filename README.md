@@ -3,7 +3,7 @@ Device to open a beaded curtain at the touch of a button.
 
 ## Description
 
-I created this device because I have a roommate who has to hear my loud beaded curtain every time I arrive home late or go to classes early. It runs off an Arduino Nano using an Elegoo stepper motor, driver, and button. When the button is pressed once the beaded curtain opens and stays open until the button is pressed again.
+I created this device because I have a roommate who has to hear my loud beaded curtain every time I arrive home late or go to classes early. It runs off an Arduino Nano using an Elegoo stepper motor, driver, and button. When the button is pressed once the beaded curtain opens and stays open until the button is pressed again. The box is attached to a wall on either top corner of the curtain in whatever manner you choose (I used command strips), and the fishing line will run through two-thirds of the curtain and back to a hook attached to the inside of the doorframe.
 
 ## Parts
 
